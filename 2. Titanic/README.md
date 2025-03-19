@@ -4,7 +4,7 @@ This project implements **Logistic Regression** from scratch using only **NumPy*
 
 ## 📖 Overview
 - **Implementation time:** 11/03/2025 - 18/03/2025  
-- **Competition link:** [Here](https://www.kaggle.com/competitions/titanic)
+- **Competition link:** [Here](https://www.kaggle.com/competitions/titanic) (Please refer to this link for information about dataset)
 
 ## ⭐ Features
 

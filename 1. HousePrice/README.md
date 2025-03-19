@@ -4,7 +4,7 @@ This project implements Linear Regression from scratch using only NumPy. It demo
 
 ## 📖 Overview 
 - Implementation time: 10/03/2025 - 16/03/2025
-- Competition link: [Here](https://www.kaggle.com/competitions/home-data-for-ml-course)
+- Competition link: [Here](https://www.kaggle.com/competitions/home-data-for-ml-course) (Please refer to this link for information about dataset)
 
 ## ⭐ Features
 
