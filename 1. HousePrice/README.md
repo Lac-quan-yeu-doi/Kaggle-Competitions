@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## 📊 Results
 
 Recorded: 16/03/2025  
-![My Image](Result_ranking.png)
+![My Image](ranking.png)
 
 ## 👤 Author
 
